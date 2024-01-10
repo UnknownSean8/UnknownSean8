@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ## :wink: About Me
 > - Leong Wei Xuan (Sean)
 > - Strive to become a full-stack senior engineer.
-> - I'm currently studying at MTU Cork, Ireland in Software Development.
-> - I'm currently working on open-source projects, freelancing and studies.
+> - 🌱 I'm currently studying at MTU Cork, Ireland in Software Development.
+> - 🔭 I'm currently working on open-source projects, freelancing and studies.
 > - Reach me through: <a href="mailto:seanleong888@gmail.com">seanleong888@gmail.com</a>
 
 ## :mailbox: Contact Me!
