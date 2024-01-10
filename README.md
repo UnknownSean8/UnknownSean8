@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=unknownsean8&color=green)
 
-## :wink: About ME
+## :wink: About Me
 > - Leong Wei Xuan (Sean)
 > - Strive to become a full-stack senior engineer.
 > - I'm currently studying at MTU Cork, Ireland in Software Development.
